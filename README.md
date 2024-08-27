@@ -1,0 +1,4 @@
+<h1 align="center"> ENCRIPTADOR DE TEXTO</h1>
+<p> Este proyecto es el resultado de un emocionante viaje de aprendizaje, donde cada línea de código en JavaScript, cada estructura en HTML y cada estilo en CSS, refleja no solo el conocimiento adquirido, sino también la dedicación y pasión por la programación. Desarrollado en Visual Studio Code, este encriptador de texto no es solo una herramienta funcional, sino un tributo a los increíbles instructores que han guiado mi camino. A través de su enseñanza, he aprendido a transformar ideas en realidad, convirtiendo conceptos abstractos en un proyecto tangible y útil. ¡Gracias por ser la chispa que encendió mi curiosidad y por proporcionarme las habilidades para llevar este proyecto a la vida!</p>
+<h2> PREVIEW DEL PEOYECTO</h2>
+<img width="883" alt="Captura de Pantalla 2024-08-27 a la(s) 16 02 55" src="https://github.com/user-attachments/assets/9a234b93-b996-4d46-b481-ee77e2d4b317">
